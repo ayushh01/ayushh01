@@ -1,6 +1,6 @@
 ### Hey , I'm Ayush Srivastava 👋
  
- <img src="icon.png" align="right" />
+
    Enthusiastic , eager to contribute to team , success through hard work. Motivated to learn, grow . Good Communicator and Planner with strong judgmental and               critical thinking abilities.
   <br>
 
