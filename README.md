@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey , I'm Ayush Srivastava 👋
+ 
+ <img src="icon.png" align="right" />
+    Enthusiastic , eager to contribute to team , success through hard work. Motivated to learn, grow . Good Communicator and Planner with strong judgmental and               critical thinking abilities.
+  <br>
 
-<!--
-**ayushh01/ayushh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on AskNsolve
+- 🌱 I’m currently learning Reactjs
+- 💬 Ask me about Web Development
+- 📫 How to reach me: srivastavaayush.alld@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: Team Captain ,Volleyball - Jaypee University , Guna
 
-Here are some ideas to get you started:
+###  https://ayushh.herokuapp.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=ayushh01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
